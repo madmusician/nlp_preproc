@@ -1,0 +1,12 @@
+[package]
+name = "nlp_preproc"
+version = "0.1.0"
+authors = ["null"]
+
+[dependencies]
+fnv = "*"
+lazy_static = "*"
+arrayvec = "*"
+rayon = "*"
+byteorder = "*"
+rayon-hash = "*"
