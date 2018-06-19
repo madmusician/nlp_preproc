@@ -1,4 +1,4 @@
-/// Common utilities for preprocessing in Natural Language Processing
+/// Common utilities for preprocessing in Natural Language Processing.
 
 extern crate fnv;
 extern crate lazy_static;
